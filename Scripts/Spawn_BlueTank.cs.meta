@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2084ee13d10b0d14383d8f2948b2a805
+timeCreated: 1490873325
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BlueTank: {fileID: 1403004848456126, guid: 512a849dcc887364ab707d7a8f59b546, type: 2}
+  - BlueSpawn_point: {fileID: 4505023315412036, guid: a6cef651496f6e044a4cf1c0fc25f040,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
